@@ -9,7 +9,7 @@ This project seeks to analyze data from City bikes from NY in order to present a
 ### Customer types
 
 
-![](images/Subscribers vs Customers.png)
+![](images/SubscribersvsCustomers.png)
 
 The pie chart above shows that there are two types of customers, annual subscribers and short term customers. The proportion of annual subscribers is way greater than short term customers. 
 
