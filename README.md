@@ -21,7 +21,7 @@ The bar chart above shows that the top riding hours in August are from 5:00 to 7
 
 ### Checkout Times by Users
 
-![](images/CheckoutTimesbyUsers.png)
+![](images/CheckoutTimesforUsers.png)
 
 The graph above portrays that most of the ride´s duration is of 5 minutes. It also shows that most rides tend to be of less than 1 hour.
 
