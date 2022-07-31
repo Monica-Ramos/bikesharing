@@ -62,7 +62,8 @@ For future anylisis it is suggested to:
 - create a map to show the top starting and ending locations by gender
 - create a tavle that shows which bikes are eligible for repair
 
-Link to Public Tableau : https://public.tableau.com/app/profile/monica.ramos.belmont/viz/NYCCitibike_16592352951700/NYCCitibike?publish=yes
+
+[link to dashboard](https://public.tableau.com/app/profile/monica.ramos.belmont/viz/NYCCitibike_16592352951700/NYCCitibike?publish=yes)
 
 
 
