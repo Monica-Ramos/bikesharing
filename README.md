@@ -15,39 +15,40 @@ The pie chart above shows that there are two types of customers, annual subscrib
 
 ### Peak Riding Hours
 
-![](images/Peak Riding Hours.png)
+![](images/PeakRidingHours.png)
 
 The bar chart above shows that the top riding hours in August are from 5:00 to 7:00 pm. 
 
 ### Checkout Times by Users
 
-![](images/Checkout Times by Users.png)
+![](images/CheckoutTimesbyUsers.png)
 
 The graph above portrays that most of the ride´s duration is of 5 minutes. It also shows that most rides tend to be of less than 1 hour.
 
 ### Checkout Times by Gender
 
-![](images/Checkout Times by Gender.png)
+![](images/CheckoutTimesbyGender.png)
 
 This graph shows the lenght of time that bikes are checked out of for each gender. Males are the main customers to this bike service.
 
 ### Trips by Weekday per Hour
 
-![](images/Trips by Weekday per Hour.png)
+![](images/TripsbyWeekdayperHour.png)
 
 The graph above shows that for monday to friday the highest number of trips are within 7 to 9 am and from 5 to 7 pm. For weekends the highest number of trips are from 10 am to 7 pm. 
 
 ### Trips by gender (weekday per hour)
 
-![](images/Trips by Gender(Weekday per Hour).png)
+![](images/TripsbyGender(WeekdayperHour).png)
 
 The graph above shows that males are the most predominant user of this service. The highest number of trips occur during 5 to 6 pm on Thursday.
 
 ### User Trips by Gender by Weekday 
 
-![](images/Trips by Gender by Weekday.png)
+![](images/TripsbyGenderbyWeekday.png)
 
 The graph above shows that males subscribers tend to use bike service most on Thursday and Fridays. 
+
 
 
 
