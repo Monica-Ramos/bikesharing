@@ -63,7 +63,7 @@ For future anylisis it is suggested to:
 - create a tavle that shows which bikes are eligible for repair
 
 
-[link to dashboard](https://public.tableau.com/app/profile/monica.ramos.belmont/viz/NYCCitibike_16592352951700/NYCCitibike?publish=yes)
+[link to Tableau Public](https://public.tableau.com/app/profile/monica.ramos.belmont/viz/NYCCitibike_16592352951700/NYCCitibike?publish=yes)
 
 
 
