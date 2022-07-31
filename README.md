@@ -49,6 +49,24 @@ The graph above shows that males are the most predominant user of this service. 
 
 The graph above shows that males subscribers tend to use bike service most on Thursday and Fridays. 
 
+## Summary 
+
+In general we could conclude the following:
+  -There is a total of 2,344,2444 users for this type of service. From this number 81% of the users are annual subscribers and the rest are short term customers. 
+  -Top riding hours are between 5:00 pm to 7:00 pm.
+  -The day with the highest number of rides is Thursdays. 
+  -Males are the most predominant users of the service. 
+  -Most rides on weekend take place between 10:00am to 7:00 pm. And from Monday to Friday trips start earlier, from 7:00 am to 9:00 am and then have high number of       rides at 5:00 pm to 7:00 pm.
+  
+For future anylisis it is suggested to:
+- create a map to show the top starting and ending locations by gender
+- create a tavle that shows which bikes are eligible for repair
+
+Link to Public Tableau : https://public.tableau.com/app/profile/monica.ramos.belmont/viz/NYCCitibike_16592352951700/NYCCitibike?publish=yes
+
+
+
+
 
 
 
