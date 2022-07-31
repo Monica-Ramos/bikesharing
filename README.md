@@ -33,7 +33,7 @@ This graph shows the lenght of time that bikes are checked out of for each gende
 
 ### Trips by Weekday per Hour
 
-![](images/TripsbyWeekdayperHour.png)
+![](images/UserTripsbyWeekdayperHour.png)
 
 The graph above shows that for monday to friday the highest number of trips are within 7 to 9 am and from 5 to 7 pm. For weekends the highest number of trips are from 10 am to 7 pm. 
 
@@ -45,7 +45,7 @@ The graph above shows that males are the most predominant user of this service. 
 
 ### User Trips by Gender by Weekday 
 
-![](images/TripsbyGenderbyWeekday.png)
+![](images/UserTripsbyGenderbyWeekday.png)
 
 The graph above shows that males subscribers tend to use bike service most on Thursday and Fridays. 
 
