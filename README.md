@@ -33,7 +33,7 @@ This graph shows the lenght of time that bikes are checked out of for each gende
 
 ### Trips by Weekday per Hour
 
-![](images/UserTripsbyWeekdayperHour.png)
+![](images/TripsbyWeekdayperHour.png)
 
 The graph above shows that for monday to friday the highest number of trips are within 7 to 9 am and from 5 to 7 pm. For weekends the highest number of trips are from 10 am to 7 pm. 
 
